@@ -1,8 +1,3 @@
-Perfetto! Ecco un README completo e professionale pronto per essere aggiunto su Git:
-
-
----
-
 # 🐬 SabrySQL
 > Il client MySQL singolo file, veloce, bello e senza stronzate
 
